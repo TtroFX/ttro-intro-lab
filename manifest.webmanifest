@@ -1,0 +1,9 @@
+{
+  "name":"Ttro Intro Engine - Interactive Course",
+  "short_name":"Ttro Intro",
+  "start_url":"./index.html#/course/p01",
+  "display":"standalone",
+  "background_color":"#f7f9fc",
+  "theme_color":"#2563eb",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
